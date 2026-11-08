@@ -28,3 +28,4 @@ If you need support for these plugins, head over to their respective github repo
 * [Nostr Alarm Bot](https://github.com/rorp/eclair-nostr-bot)
 * [Dynamic fees eclair plugin](https://github.com/rorp/eclair-plugin-dynamicfees)
 * [BOLT12 address plugin](https://github.com/rorp/bolt12-address-plugin)
+* [Lightning Loop swaps for Eclair nodes](https://github.com/rorp/sluice)
